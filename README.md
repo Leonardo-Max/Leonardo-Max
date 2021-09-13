@@ -35,5 +35,6 @@
   <a href="https://www.facebook.com/xxleomaxx" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
   </a> 
+  
   ![Snake animation](https://github.com/Leonardo-Max/Leonardo-Max/blob/output/github-contribution-grid-snake.svg)
 </div>
